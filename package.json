@@ -1,5 +1,5 @@
 {
-  "name": "insert_many_documents_to_mongodb_from_js_array",
+  "name": "insert_many_documents_to_mongodb_collection_from_js_array",
   "version": "1.0.0",
   "description": "a script for inserting many documents from an array of objects directly to mongodb database collection",
   "main": "script.js",
